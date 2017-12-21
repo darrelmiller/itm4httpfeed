@@ -1,0 +1,57 @@
+<feed 
+  xmlns:media="http://search.yahoo.com/mrss/" 
+  xmlns="http://www.w3.org/2005/Atom">
+  <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC5-31Y_XqTe30i-xx1SIUJA"/>
+  <title>In The Mood For HTTP</title>
+  <author>
+    <name>In The Mood For HTTP</name>
+    <uri>https://www.youtube.com/channel/UC5-31Y_XqTe30i-xx1SIUJA</uri>
+  </author>
+  <updated>2017-11-16T22:29:47+00:00</updated>
+  <entry>
+    <id>yt:video:3enJXcxVA98</id>
+    <title>In The Mood For HTTP December 14th 2017</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=3enJXcxVA98"/>
+    <author>
+      <name>In The Mood For HTTP</name>
+      <uri>https://www.youtube.com/channel/UC5-31Y_XqTe30i-xx1SIUJA</uri>
+    </author>
+    <updated>2017-12-15T11:33:21+00:00</updated>
+    <media:group>
+      <media:title>In The Mood For HTTP December 14th 2017</media:title>
+      <media:content url="https://www.youtube.com/v/3enJXcxVA98?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+      <media:thumbnail url="https://i4.ytimg.com/vi/3enJXcxVA98/hqdefault.jpg" width="480" height="360"/>
+      <media:description></media:description>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:Ikz1uk_n_vk</id>
+    <title>In The  Mood For Http  Nov 30th</title>
+    <author>
+      <name>In The Mood For HTTP</name>
+      <uri>https://www.youtube.com/channel/UC5-31Y_XqTe30i-xx1SIUJA</uri>
+    </author>
+    <updated>2017-12-04T09:06:33+00:00</updated>
+    <media:group>
+      <media:title>In The  Mood For Http  Nov 30th</media:title>
+      <media:content url="https://www.youtube.com/v/Ikz1uk_n_vk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+      <media:thumbnail url="https://i2.ytimg.com/vi/Ikz1uk_n_vk/hqdefault.jpg" width="480" height="360"/>
+      <media:description></media:description>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:QgYY45X58i0</id>
+    <title>In The Mood For HTTP   November 2017</title>
+    <author>
+      <name>In The Mood For HTTP</name>
+      <uri>https://www.youtube.com/channel/UC5-31Y_XqTe30i-xx1SIUJA</uri>
+    </author>
+    <updated>2017-11-17T01:48:20+00:00</updated>
+    <media:group>
+      <media:title>In The Mood For HTTP   November 2017</media:title>
+      <media:content url="https://www.youtube.com/v/QgYY45X58i0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+      <media:thumbnail url="https://i2.ytimg.com/vi/QgYY45X58i0/hqdefault.jpg" width="480" height="360"/>
+      <media:description></media:description>
+    </media:group>
+  </entry>
+</feed>

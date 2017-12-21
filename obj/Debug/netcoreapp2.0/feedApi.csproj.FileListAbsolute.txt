@@ -1,0 +1,10 @@
+c:\src\github\inthemoodforhttp\feedApi\bin\Debug\netcoreapp2.0\feedApi.deps.json
+c:\src\github\inthemoodforhttp\feedApi\bin\Debug\netcoreapp2.0\feedApi.runtimeconfig.json
+c:\src\github\inthemoodforhttp\feedApi\bin\Debug\netcoreapp2.0\feedApi.runtimeconfig.dev.json
+c:\src\github\inthemoodforhttp\feedApi\bin\Debug\netcoreapp2.0\feedApi.dll
+c:\src\github\inthemoodforhttp\feedApi\bin\Debug\netcoreapp2.0\feedApi.pdb
+c:\src\github\inthemoodforhttp\feedApi\obj\Debug\netcoreapp2.0\feedApi.csproj.CoreCompileInputs.cache
+c:\src\github\inthemoodforhttp\feedApi\obj\Debug\netcoreapp2.0\feedApi.AssemblyInfoInputs.cache
+c:\src\github\inthemoodforhttp\feedApi\obj\Debug\netcoreapp2.0\feedApi.AssemblyInfo.cs
+c:\src\github\inthemoodforhttp\feedApi\obj\Debug\netcoreapp2.0\feedApi.dll
+c:\src\github\inthemoodforhttp\feedApi\obj\Debug\netcoreapp2.0\feedApi.pdb
