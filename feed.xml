@@ -5,7 +5,7 @@
         <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC5-31Y_XqTe30i-xx1SIUJA</link>
         <description>An open Q&amp;A about all things HTTP</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 21 Dec 2017 9:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2017 10:00:00 GMT</lastBuildDate>
         <image>
           <url>https://pbs.twimg.com/profile_images/935735215129088002/bOlcVN7H_400x400.jpg</url>
           <title>In The Mood For HTTP</title>
@@ -54,11 +54,13 @@
         <item>
           <pubDate>Thu, 30 Nov 2017 00:00:00 GMT</pubDate>
           <title>Episode 8</title>
+          <description>Kevin Swiber trolls us from Slack!</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20%20Mood%20For%20Http%20%20Nov%2030th.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
           <pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate>
-          <title>Episode 9 - No, please no more GraphQL</title>
+          <title>Episode 9 - Please no more GraphQL</title>
+          <description>A cornucopia of HTTP topics. Long running operations, the Alias pattern, OpenAPI tooling, DNS over HTTP, JWT tokens. We have it covered!</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20%20Mood%20For%20Http%20%20Nov%2030th.mp3" length="0" type="audio/mp3" />
         </item>        
       </channel>
