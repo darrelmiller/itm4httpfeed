@@ -53,7 +53,7 @@
         </item>
         <item>
           <pubDate>Thu, 30 Nov 2017 00:00:00 GMT</pubDate>
-          <title>Episode 8</title>
+          <title>Episode 8 - The Revenge of Kevin</title>
           <description>Kevin Swiber trolls us from Slack!</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20%20Mood%20For%20Http%20%20Nov%2030th.mp3" length="0" type="audio/mp3" />
         </item>
@@ -61,7 +61,7 @@
           <pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate>
           <title>Episode 9 - Please no more GraphQL</title>
           <description>A cornucopia of HTTP topics. Long running operations, the Alias pattern, OpenAPI tooling, DNS over HTTP, JWT tokens. We have it covered!</description>
-          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20%20Mood%20For%20Http%20%20Nov%2030th.mp3" length="0" type="audio/mp3" />
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20December%2014th%202017.mp3" length="0" type="audio/mp3" />
         </item>        
       </channel>
 </rss>
