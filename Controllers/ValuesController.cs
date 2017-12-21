@@ -13,9 +13,8 @@ namespace feedApi.Controllers
         public IActionResult Get()
         {
             FileStreamResult result;
-            using(var stream = this.GetType().Assembly.GetManifestResourceStream("feedApi.feed.xml")) {
-                 result =  new FileStreamResult(stream, "application/xml");
-            }
+            var stream = this.GetType().Assembly.GetManifestResourceStream("feedApi.feed.xml");
+            result =  new FileStreamResult(stream, "application/xml");
             return result;
         }
     }
