@@ -32,7 +32,18 @@
           <title>Episode 6</title>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%206.mp3" length="0" type="audio/mp3" />
         </item>
-
-
+        <item>
+          <title>Episode 7 - And we're back!</title>
+          <description>After a long hiatus we have decided the time is right to get back in the mood.</description>
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20%20%20November%202017.mp3" length="0" type="audio/mp3" />
+        </item>
+        <item>
+          <title>Episode 8</title>
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20%20Mood%20For%20Http%20%20Nov%2030th.mp3" length="0" type="audio/mp3" />
+        </item>
+        <item>
+          <title>Episode 9 - No, please no more GraphQL</title>
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20%20Mood%20For%20Http%20%20Nov%2030th.mp3" length="0" type="audio/mp3" />
+        </item>        
       </channel>
 </rss>
