@@ -5,18 +5,27 @@
         <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC5-31Y_XqTe30i-xx1SIUJA</link>
         <description>An open Q&amp;A about all things HTTP</description>
         <language>en-us</language>
+        <lastBuildDate>Thu, 21 Dec 2017 00:00:00 GMT</lastBuildDate>
+        <image>
+          <url>https://pbs.twimg.com/profile_images/935735215129088002/bOlcVN7H_400x400.jpg</url>
+          <title>In The Mood For HTTP</title>
+          <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC5-31Y_XqTe30i-xx1SIUJA</link>
+        </image>
         <item>
-          <title>Episode 1 - You Don't Know If You Don't Try (October 2015)</title>
+          <pubDate>Thu, 1 Oct 2015 00:00:00 GMT</pubDate>
+          <title>Episode 1 - You Don't Know If You Don't Try</title>
           <description>As a software developer today it is pretty difficult to avoid working with HTTP in some capacity.  There also seems to be a growing desire among developers to get a deeper understanding of the protocol.  Recently Glenn Block and I decided it might be interesting to do a online Q&amp;A about HTTP and try and answer developer questions.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%201.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <title>Episode 2 - Was It A Fluke? (October 19, 2015)</title>
+          <pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
+          <title>Episode 2 - Was It A Fluke?</title>
           <description>We didn't manage to make it through all the questions in the first episode, and people seemed to like the conversation, so we decided to have another go.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%202.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <title>Episode 3 - We're in the swing (October 27, 2015)</title>
+          <pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate>
+          <title>Episode 3 - We're in the swing</title>
           <description> In this episode we cover issues like API description languages, security weaknesses in HTTP APIs and the illusive HTTP status code 410 Gone.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%203.mp3" length="0" type="audio/mp3" />
         </item>
