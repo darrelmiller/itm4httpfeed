@@ -16,7 +16,7 @@
           <title>In The Mood For HTTP</title>
           <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC5-31Y_XqTe30i-xx1SIUJA</link>
         </image>
-        <itunes:image>https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMood-itunes.jpg</itunes:image>
+        <itunes:image href="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMood-itunes.jpg"/>
         <itunes:type>episodic</itunes:type>
         <copyright>&#x2117; &amp; &#xA9; 2017 Glenn Block &amp; Darrel Miller</copyright>
         <itunes:author>Glenn Block &amp; Darrel Miller</itunes:author>
