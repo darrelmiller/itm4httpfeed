@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace feedApi.Controllers
 {
+    [Route("")]
     [Route("feed")]
     public class FeedController : Controller
     {
