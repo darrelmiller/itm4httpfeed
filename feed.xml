@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+                  xmlns:media="http://search.yahoo.com/mrss/"
+                  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+                  >
       <channel>
         <title>In The Mood For HTTP</title>
         <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC5-31Y_XqTe30i-xx1SIUJA</link>
         <atom:link rel="self" href="http://feed.inthemoodforhttp.com"/>
-        <description>An open Q&amp;A about all things HTTP</description>
+        <description>A bi-weekly conversation between Glenn Block and Darrel Miller about HTTP, Web APIs, hypermedia and the rest of the HTTP API ecosystem.</description>
+        <itunes:subtitle>An open Q&amp;A about all things HTTP</itunes:subtitle>
         <language>en-us</language>
         <lastBuildDate>Thu, 28 Dec 2017 10:00:00 GMT</lastBuildDate>
         <image>
@@ -12,6 +16,16 @@
           <title>In The Mood For HTTP</title>
           <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC5-31Y_XqTe30i-xx1SIUJA</link>
         </image>
+        <itunes:image>https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMood-itunes.jpg</itunes:image>
+        <itunes:type>episodic</itunes:type>
+        <copyright>&#x2117; &amp; &#xA9; 2017 Glenn Block &amp; Darrel Miller</copyright>
+        <itunes:author>Glenn Block &amp; Darrel Miller</itunes:author>
+        <itunes:category text="Technology" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+          <itunes:name>Darrel Miller</itunes:name>
+          <itunes:email>darrel@tavis.ca</itunes:email>
+        </itunes:owner>
         <item>
           <guid>https://feed.inthemoodforhttp.com/episodes/1</guid>
           <pubDate>Thu, 1 Oct 2015 00:00:00 GMT</pubDate>
