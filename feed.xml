@@ -10,7 +10,7 @@
         <description>A bi-weekly conversation between Glenn Block and Darrel Miller about HTTP, Web APIs, hypermedia and the rest of the HTTP API ecosystem.</description>
         <itunes:subtitle>An open Q&amp;A about all things HTTP</itunes:subtitle>
         <language>en-us</language>
-        <lastBuildDate>Thu, 28 Dec 2017 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2017 13:00:00 GMT</lastBuildDate>
         <image>
           <url>https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMood-itunes.jpg</url>
           <title>In The Mood For HTTP</title>
@@ -60,7 +60,8 @@
           <itunes:episode>4</itunes:episode>             
           <title>Season 1 Ep. 4 - We have Guests</title>
           <description>This episode was recorded on the Microsoft Campus during the Microsoft MVP Summit.  As guests we have Henrik Frystyk Neilsen and Greg Shackles.</description>
-          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%204.mp3" length="0" type="audio/mp3" />
+          <enclosure
+           url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20for%20HTTP%20Episode%204.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
           <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/5</guid>
@@ -68,7 +69,7 @@
           <itunes:episode>5</itunes:episode>          
           <pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>       
           <title>Season 1 Ep. 5 - Tech problems? I'm shocked</title>
-          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%205.mp3" length="0" type="audio/mp3" />
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20for%20HTTP%20Episode%205.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
           <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/6</guid>
@@ -76,7 +77,7 @@
           <itunes:episode>6</itunes:episode>          
           <pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>       
           <title>Season 1 Ep. 6 - And then life happened</title>
-          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%206.mp3" length="0" type="audio/mp3" />
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20for%20HTTP%20Episode%206.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
           <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/1</guid>
