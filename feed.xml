@@ -27,63 +27,81 @@
           <itunes:email>darrel@tavis.ca</itunes:email>
         </itunes:owner>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/1</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/1</guid>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>1</itunes:episode>
           <pubDate>Thu, 1 Oct 2015 00:00:00 GMT</pubDate>
-          <title>Episode 1 - You Don't Know If You Don't Try</title>
+          <title>Season 1 Ep. 1 - You Don't Know If You Don't Try</title>
           <description>As a software developer today it is pretty difficult to avoid working with HTTP in some capacity.  There also seems to be a growing desire among developers to get a deeper understanding of the protocol.  Recently Glenn Block and I decided it might be interesting to do a online Q&amp;A about HTTP and try and answer developer questions.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%201.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/2</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/2</guid>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>2</itunes:episode>          
           <pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
-          <title>Episode 2 - Was It A Fluke?</title>
+          <title>Season 1 Ep. 2 - Was It A Fluke?</title>
           <description>We didn't manage to make it through all the questions in the first episode, and people seemed to like the conversation, so we decided to have another go.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%202.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/3</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/3</guid>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>3</itunes:episode>             
           <pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate>
-          <title>Episode 3 - We're in the swing</title>
+          <title>Season 1 Ep. 3 - We're in the swing</title>
           <description> In this episode we cover issues like API description languages, security weaknesses in HTTP APIs and the illusive HTTP status code 410 Gone.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%203.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/4</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/4</guid>
           <pubDate>Mon, 2 Nov 2015 00:00:00 GMT</pubDate>
-          <title>Episode 4 - We have Guests</title>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>4</itunes:episode>             
+          <title>Season 1 Ep. 4 - We have Guests</title>
           <description>This episode was recorded on the Microsoft Campus during the Microsoft MVP Summit.  As guests we have Henrik Frystyk Neilsen and Greg Shackles.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%204.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/5</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/5</guid>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>5</itunes:episode>          
           <pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>       
-          <title>Episode 5 - Tech problems? I'm shocked</title>
+          <title>Season 1 Ep. 5 - Tech problems? I'm shocked</title>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%205.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/6</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/6</guid>
+          <itunes:season>1</itunes:season>
+          <itunes:episode>6</itunes:episode>          
           <pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>       
-          <title>Episode 6 - And then life happened</title>
+          <title>Season 1 Ep. 6 - And then life happened</title>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20Episode%206.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/7</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/1</guid>
+          <itunes:season>2</itunes:season>
+          <itunes:episode>1</itunes:episode>             
           <pubDate>Thu, 16 Nov 2017 00:00:00 GMT</pubDate>
-          <title>Episode 7 - And we're back!</title>
+          <title>Season 2 Ep. 1 - And we're back!</title>
           <description>After a long hiatus we have decided the time is right to get back in the mood.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20%20%20November%202017.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/8</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/2</guid>
+          <itunes:season>2</itunes:season>
+          <itunes:episode>2</itunes:episode>            
           <pubDate>Thu, 30 Nov 2017 00:00:00 GMT</pubDate>
-          <title>Episode 8 - The Revenge of Kevin</title>
+          <title>Season 2 Ep. 2 - The Revenge of Kevin</title>
           <description>Kevin Swiber trolls us from Slack!</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20%20Mood%20For%20Http%20%20Nov%2030th.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
-          <guid>https://feed.inthemoodforhttp.com/episodes/9</guid>
+          <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/3</guid>
+          <itunes:season>2</itunes:season>
+          <itunes:episode>3</itunes:episode>           
           <pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate>
-          <title>Episode 9 - Please no more GraphQL</title>
+          <title>Season 2 Ep. 3 - Please no more GraphQL</title>
           <description>A cornucopia of HTTP topics. Long running operations, the Alias pattern, OpenAPI tooling, DNS over HTTP, JWT tokens. We have it covered!</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20December%2014th%202017.mp3" length="0" type="audio/mp3" />
         </item>        
