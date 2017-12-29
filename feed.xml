@@ -69,7 +69,7 @@
           <itunes:episode>5</itunes:episode>          
           <pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>       
           <title>Season 1 Ep. 5 - Tech problems? I'm shocked</title>
-          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20for%20HTTP%20Episode%205.mp3" length="0" type="audio/mp3" />
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20the%20Mood%20for%20HTTP%20Episode%205.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
           <guid>https://feed.inthemoodforhttp.com/seasons/1/episodes/6</guid>
@@ -77,7 +77,7 @@
           <itunes:episode>6</itunes:episode>          
           <pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>       
           <title>Season 1 Ep. 6 - And then life happened</title>
-          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20for%20HTTP%20Episode%206.mp3" length="0" type="audio/mp3" />
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20the%20Mood%20for%20HTTP%20Episode%206.mp3" length="0" type="audio/mp3" />
         </item>
         <item>
           <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/1</guid>
