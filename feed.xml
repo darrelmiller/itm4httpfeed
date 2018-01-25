@@ -105,6 +105,24 @@
           <title>Season 2 Ep. 3 - Please no more GraphQL</title>
           <description>A cornucopia of HTTP topics. Long running operations, the Alias pattern, OpenAPI tooling, DNS over HTTP, JWT tokens. We have it covered!</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/In%20The%20Mood%20For%20HTTP%20December%2014th%202017.mp3" length="0" type="audio/mp3" />
+        </item>
+        <item>
+          <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/4</guid>
+          <itunes:season>2</itunes:season>
+          <itunes:episode>4</itunes:episode>           
+          <pubDate>Thu, 11 Jan 2018 00:00:00 GMT</pubDate>
+          <title>Season 2 Ep. 4 -The State of Hypermedia</title>
+          <description>The Whack-a-mole pattern. A review of recent developments in the world of Hypermedia, including Hypergoal, Hyperschema and Restful JSON.</description>
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMoodForHTTP-2018-01-11.mp3" length="0" type="audio/mp3" />
+        </item>
+        <item>
+          <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/5</guid>
+          <itunes:season>2</itunes:season>
+          <itunes:episode>5</itunes:episode>           
+          <pubDate>Thu, 25 Jan 2018 00:00:00 GMT</pubDate>
+          <title>Season 2 Ep. 5 - Status Codes and Hand Puppets</title>
+          <description>The Miniput pattern. A discussion about status codes and client behavior. A review of Netflix Conductor.</description>
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMoodForHTTP-2018-01-25.mp3" length="0" type="audio/mp3" />
         </item>        
       </channel>
 </rss>
