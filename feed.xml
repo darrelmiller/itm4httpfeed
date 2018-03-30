@@ -123,6 +123,24 @@
           <title>Season 2 Ep. 5 - Status Codes and Hand Puppets</title>
           <description>The Miniput pattern. A discussion about status codes and client behavior. A review of Netflix Conductor.</description>
           <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMoodForHTTP-2018-01-25.mp3" length="0" type="audio/mp3" />
+        </item>
+        <item>
+          <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/6</guid>
+          <itunes:season>2</itunes:season>
+          <itunes:episode>6</itunes:episode>           
+          <pubDate>Thu, 8 Feb 2018 00:00:00 GMT</pubDate>
+          <title>Season 2 Ep. 6 - Being Persistent</title>
+          <description>Factory Pattern, Persistent Connections and cached GraphQL queries</description>
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMoodForHTTP-2018-02-15.mp3" length="0" type="audio/mp3" />
+        </item>
+        <item>
+          <guid>https://feed.inthemoodforhttp.com/seasons/2/episodes/7</guid>
+          <itunes:season>2</itunes:season>
+          <itunes:episode>7</itunes:episode>           
+          <pubDate>Thu, 29 Mar 2018 00:00:00 GMT</pubDate>
+          <title>Season 2 Ep. 7 - Flying Solo with Caching and Schemas</title>
+          <description>Bouncer pattern, URLs and slashes, HTTP Caching, and what JSON Schemas isn't and why that might be good.</description>
+          <enclosure url="https://hypermediaapi.blob.core.windows.net/inthemoodforhttp-audio/InTheMoodForHTTP-2018-03-30.mp3" length="0" type="audio/mp3" />
         </item>        
       </channel>
 </rss>
